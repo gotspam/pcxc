@@ -9,12 +9,12 @@ During the lab you will be playing the role of an Engineer at ACME Corp who resp
 **Goal:**
 Demonstrate and understand when to use F5 Distributed Cloud Network Connect or App Connect to securely extend connectivity between disparate environments. 
 
-.. image:: ./images/intro.png
+.. image:: ./assets/intro.png
 
 Module 1: Network Connect
 =======================================================
 
-.. image:: ../images/netconnect.png
+.. image:: ../assets/netconnect.png
 
 **Narrative**:
 
@@ -48,7 +48,7 @@ Now, Lab 1 starts right after you have loaded the downloadable XC Node OVA on to
 
 |
 
-.. image:: ../images/lab1intro.png
+.. image:: ../assets/lab1intro.png
 
 |
 
@@ -59,7 +59,7 @@ Now, Lab 1 starts right after you have loaded the downloadable XC Node OVA on to
 
 |
 
-.. image:: ../images/updatepasswd.png
+.. image:: ../assets/updatepasswd.png
 
 |
  
@@ -69,7 +69,7 @@ Once you've set your new password (make sure to include 1 upper, 1 lower and 1 s
 
 |
 
-.. image:: ../images/tenantlogin.png 
+.. image:: ../assets/tenantlogin.png 
 
 |
 
@@ -101,7 +101,7 @@ In the resulting window you can observe the **Work domains and skill level** sec
 
 |
 
-.. image:: ../images/intro1.png 
+.. image:: ../assets/intro1.png 
 
 |
 
@@ -109,7 +109,7 @@ In the resulting window you can observe the **Work domains and skill level** sec
 
 |
 
-.. image:: ../images/intro2.png 
+.. image:: ../assets/intro2.png 
 
 |
 
@@ -124,7 +124,7 @@ From the **Select service** menu, click on **Web App & API Protection**.
 
 |
 
-.. image:: ../images/findnamespace.png 
+.. image:: ../assets/findnamespace.png 
 
 |
 
@@ -137,7 +137,7 @@ been assigned. It will be located in the portion of the URI path between */names
 
 |
 
-.. image:: ../images/namespace1.png
+.. image:: ../assets/namespace1.png
 
 |
 
@@ -159,7 +159,7 @@ From the **Select service** menu, click on **Multi-Cloud Network Connect**.
 
 |
 
-.. image:: ../images/sitetoke.png 
+.. image:: ../assets/sitetoke.png 
 
 |
 
@@ -170,7 +170,7 @@ In your production environment you will need to create your own Site Token to re
 
 |
 
-.. image:: ../images/tokens.png
+.. image:: ../assets/tokens.png
 
 |
 
@@ -178,7 +178,7 @@ Copy the UID of the the **student-ce-site** token and paste it somewhere you can
 
 |
 
-.. image:: ../images/copytoke.png 
+.. image:: ../assets/copytoke.png 
 
 |
 
@@ -189,7 +189,7 @@ In your browser, you should have a tab open to the UDF course. Under the F5 Dist
 
 |
 
-.. image:: ../images/udf-ce.png 
+.. image:: ../assets/udf-ce.png 
 
 |
 
@@ -206,7 +206,7 @@ Default Password:                **Volterra123**
 
 |
 
-.. image:: ../images/signin.png 
+.. image:: ../assets/signin.png 
 
 |
 
@@ -214,7 +214,7 @@ You will be prompted to change the password at the initial log in. **Make a ment
 
 |
 
-.. image:: ../images/changepwd.png
+.. image:: ../assets/changepwd.png
 
 |
 
@@ -224,7 +224,7 @@ After you set the password, the services will need to restart and then the Custo
 
 |
 
-.. image:: ../images/restart.png 
+.. image:: ../assets/restart.png 
 
 |
 
@@ -232,7 +232,7 @@ Once all services are up and running you should see the Dashboard which will hav
 
 |
 
-.. image:: ../images/dash.png 
+.. image:: ../assets/dash.png 
 
 |
 
@@ -247,7 +247,7 @@ Click the blue **Configure Now** button.
 
 |
 
-.. image:: ../images/ceconf.png 
+.. image:: ../assets/ceconf.png 
 
 |
 
@@ -269,7 +269,7 @@ The end result should look like the image below, and then click **Save Configura
 
 |
 
-.. image:: ../images/devconf.png 
+.. image:: ../assets/devconf.png 
 
 |
 
@@ -277,7 +277,7 @@ After you save the configuration, you will be taken back to the Dashboard, notic
 
 |
 
-.. image:: ../images/approval.png 
+.. image:: ../assets/approval.png 
 
 |
 
@@ -285,7 +285,7 @@ After you save the configuration, you will be taken back to the Dashboard, notic
 
 |
 
-.. image:: ../images/error.png 
+.. image:: ../assets/error.png 
 
 |
 
@@ -305,7 +305,7 @@ On the side menu go down to **Manage >> Site Management >> Registrations.**
 
 |
 
-.. image:: ../images/sitemgt.png 
+.. image:: ../assets/sitemgt.png 
 
 |
 
@@ -313,7 +313,7 @@ The Customer Edge node you configured from the previous step should appear on th
 
 |
 
-.. image:: ../images/sitereg.png
+.. image:: ../assets/sitereg.png
 
 |
 
@@ -334,7 +334,7 @@ Once you have clicked the checkmark, the console will bring up the Registration 
 
 |
 
-.. image:: ../images/clustersize.png
+.. image:: ../assets/clustersize.png
 
 |
 
@@ -342,7 +342,7 @@ Scroll down to Site to Site Tunnel Type and click on the drop down arrow
 
 |
 
-.. image:: ../images/s2sarrow.png
+.. image:: ../assets/s2sarrow.png
 
 |
 
@@ -352,7 +352,7 @@ Select **IPSEC or SSL** from the list.
 
 |
 
-.. image:: ../images/iporssl.png
+.. image:: ../assets/iporssl.png
 
 |
 
@@ -363,7 +363,7 @@ Once the registration completes, you can see the cluster in the “Other Registr
 
 |
 
-.. image:: ../images/otherregs.png
+.. image:: ../assets/otherregs.png
 
 |
 
@@ -372,7 +372,7 @@ From the menu on the left click on **Sites** and observe your Nodes (animal-name
 
 |
 
-.. image:: ../images/provisioning.png
+.. image:: ../assets/provisioning.png
 
 |
 |
@@ -389,7 +389,7 @@ The end result should look something like the following screen where the node is
 
 |
 
-.. image:: ../images/prov2.png
+.. image:: ../assets/prov2.png
 
 |
 
@@ -399,7 +399,7 @@ Sanity Check
 
 |
 
-.. image:: ../images/lab1fini.png
+.. image:: ../assets/lab1fini.png
 
 |
 
@@ -424,7 +424,7 @@ After the setup is complete, you will test connectivity and configure network se
 
 |
 
-.. image:: ../images/lab2biz.png
+.. image:: ../assets/lab2biz.png
 
 |
 
@@ -442,7 +442,7 @@ if you do not see your animal name. In this example I was assigned and filtered 
 
 |
 
-.. image:: ../images/registeredce.png
+.. image:: ../assets/registeredce.png
 
 |
 
@@ -459,7 +459,7 @@ Instead, **Click** on the three dots under the **Actions** column at the far rig
 
 |
 
-.. image:: ../images/action.png
+.. image:: ../assets/action.png
 
 |   
 
@@ -469,7 +469,7 @@ These are the closest Regional Edge sites based on the latitude and longitude in
 
 |
 
-.. image:: ../images/remeta.png
+.. image:: ../assets/remeta.png
 
 |
 
@@ -483,14 +483,14 @@ Look at the top left-hand corner where you see Form, Documentation and JSON. **Y
 You can view the JSON file of the configuration by clicking **JSON**. 
 
 
-.. image:: ../images/json.png
+.. image:: ../assets/json.png
 
 
 This is the JSON code of the configuration which could be saved to create a backup of the Customer Edge configuration, but that is beyond the scope of this lab. 
 
 |
 
-.. image:: ../images/json1.png
+.. image:: ../assets/json1.png
 
 |
 
@@ -498,7 +498,7 @@ Click on **Documentation**.
 
 |
 
-.. image:: ../images/docu.png
+.. image:: ../assets/docu.png
 
 |
 
@@ -506,7 +506,7 @@ This will load the API specification for a Customer Edge Node. Review briefly an
 
 |
 
-.. image:: ../images/sitev.png
+.. image:: ../assets/sitev.png
 
 |
 
@@ -517,7 +517,7 @@ The default landing is a Dashboard giving you a detailed summary of the Customer
 
 |
 
-.. image:: ../images/dash1.png
+.. image:: ../assets/dash1.png
 
 |
 
@@ -537,7 +537,7 @@ The AWS frontend workload is already deployed along with an XC Node to extend th
 .. NOTE:: The Data Center backend has a pre-existing route to 10.0.3.0/24 and it points to the single outside interface of the Data Center XC Node.  The AWS workload has a route to 10.1.1.0/24 that points to the inside interface of the AWS XC Node. 
 
 
-.. image:: ../images/netconnlab.png
+.. image:: ../assets/netconnlab.png
 
 
 What you have done so far in Lab 1 and the beginning of Lab 2, is setup the ACME Data Center XC Node to extend the Data Center Customer Edge. 
@@ -562,7 +562,7 @@ On the left side menu, navigate to  **Manage >> Networking >> Virtual Networks**
 
 |
 
-.. image:: ../images/studglob.png
+.. image:: ../assets/studglob.png
 
 |
 
@@ -575,7 +575,7 @@ If you wanted to configure this outside of the lab, you would simply click **Add
 The configuration **would** look like the screen below.
  
 
-.. image:: ../images/meta.png
+.. image:: ../assets/meta.png
 
 
 Fleets
@@ -606,7 +606,7 @@ Click on the 3 dots at the far right hand side of student-fleet and select **Man
 
 |
 
-.. image:: ../images/studfleet.png
+.. image:: ../assets/studfleet.png
 
 |
 
@@ -659,7 +659,7 @@ A site can have at most one known_label of type ves.io/fleet and hence belongs t
 
 **Note** the **Fleet Label Value** of the **student-fleet**. The label is also named **student-fleet**. 
 
-.. image:: ../images/flv.png
+.. image:: ../assets/flv.png
 
 
 
@@ -669,7 +669,7 @@ From your UDF environment browser tab,  click on **Access >> Web Shell** on the 
 
 |
 
-.. image:: ../images/ubuntu.png
+.. image:: ../assets/ubuntu.png
 
 |
 
@@ -686,7 +686,7 @@ You should be here. We will be adding a **Fleet Label** to tag our CE Node into 
 
 |
 
-.. image:: ../images/fleetlabel.png
+.. image:: ../assets/fleetlabel.png
 
 |
 
@@ -695,7 +695,7 @@ For the value click on **student-fleet**, scroll down, **Save and Exit**.
 
 |
 
-.. image:: ../images/fleetlabel1.png
+.. image:: ../assets/fleetlabel1.png
 
 |
 
@@ -703,7 +703,7 @@ It should look like this:
 
 |
 
-.. image:: ../images/fleetlabel2.png
+.. image:: ../assets/fleetlabel2.png
 
 |
 
@@ -712,7 +712,7 @@ Check back on your web shell tab with the ping going. Success!!
 
 |
 
-.. image:: ../images/ping.png
+.. image:: ../assets/ping.png
 
 |
 
@@ -728,7 +728,7 @@ Click on **Show Routes**
 
 |
 
-.. image:: ../images/shroutes.png
+.. image:: ../assets/shroutes.png
 
 |
 
@@ -736,7 +736,7 @@ Set Virtual Network Type to: **VIRTUAL_NETWORK_SITE_LOCAL_INSIDE** and click the
 
 |
 
-.. image:: ../images/shroutes2.png
+.. image:: ../assets/shroutes2.png
 
 |
 
@@ -744,7 +744,7 @@ Scroll down to see the AWS subnet route **"10.0.3.0/24** being advertised throug
 
 |
 
-.. image:: ../images/shroutes3.png
+.. image:: ../assets/shroutes3.png
 
 |
 
@@ -759,7 +759,7 @@ Our first test will be to port 80. In the web shell type: **curl \-\-head http:/
 
 |
 
-.. image:: ../images/curl.png
+.. image:: ../assets/curl.png
 
 |
 
@@ -767,7 +767,7 @@ Next, push the keyboard "up arrow " and run the same command but targeted at por
 
 |
 
-.. image:: ../images/8080.png
+.. image:: ../assets/8080.png
 
 |
 
@@ -801,7 +801,7 @@ Click the blue **Configure** hyperlink.
 
 |
 
-.. image:: ../images/efwp.png
+.. image:: ../assets/efwp.png
 
 |
 
@@ -822,7 +822,7 @@ Action                                          Allow
 
 |
 
-.. image:: ../images/allow80.png
+.. image:: ../assets/allow80.png
 
 |
 
@@ -830,7 +830,7 @@ Click **Apply** and your screen should look like this:
 
 |
 
-.. image:: ../images/fwver.png
+.. image:: ../assets/fwver.png
 
 |
 
@@ -850,7 +850,7 @@ Action                                          Deny
 
 |
 
-.. image:: ../images/denyall.png
+.. image:: ../assets/denyall.png
 
 |
 
@@ -861,7 +861,7 @@ Click **Apply** and your screen should look like this:
 |
 
 
-.. image:: ../images/fwver2.png
+.. image:: ../assets/fwver2.png
 
 |
 
@@ -870,7 +870,7 @@ Click **Apply** and **Save and Exit**.
 |
 
 
-.. image:: ../images/save.png
+.. image:: ../assets/save.png
 
 |
 
@@ -881,7 +881,7 @@ You have now created the firewall policy necessary to secure these two networks.
 |
 
 
-.. image:: ../images/fleetpol.png
+.. image:: ../assets/fleetpol.png
 
 |
 
@@ -904,7 +904,7 @@ Take particular notice of the different **Log Types** and **Receiver Configurati
 |
 
 
-.. image:: ../images/globlog.png
+.. image:: ../assets/globlog.png
 
 |
 
@@ -923,7 +923,7 @@ Click **Cancel and Exit** and Discard any changes.
 |
 
 
-.. image:: ../images/locallog.png
+.. image:: ../assets/locallog.png
 
 |
 
@@ -936,7 +936,7 @@ Scroll down to observe the **Logs Streaming** field under **Advanced Configurati
 |
 
 
-.. image:: ../images/logs.png
+.. image:: ../assets/logs.png
 
 |
 
@@ -951,7 +951,7 @@ Sanity Check
 -------------
 **This is what you just deployed.**
 
-.. image:: ../images/lab2rev.png
+.. image:: ../assets/lab2rev.png
 
 
 **We hope you enjoyed this lab!**
