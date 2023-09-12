@@ -168,9 +168,9 @@ Performance Monitoring dashboard, and gather request details.
 +----------------------------------------------------------------------------------------------------------------+
 || 3. Returning to the F5 Distributed Cloud Console, use the left-hand navigation to navigate to Multi-Cloud App |
 ||                                                                                                               |
-|| Connect section and expand **Manage** and then click on **HTTP Load Balancers**                               |
+|| Connect section and expand **Dashboards** and then click on **Performance Dashboard**                         |
 ||                                                                                                               |
-|| 4. Click on **Performance Monitoring** link provided for your respective load balancer.                       |
+|| 4. Scroll to bottom and click on **<namespace>-lb** link provided for your respective load balancer.          |
 ||                                                                                                               |
 +----------------------------------------------------------------------------------------------------------------+
 | |lab016|                                                                                                       |
