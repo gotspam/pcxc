@@ -12,4 +12,4 @@ The image below represents an overview of the lab environment. F5 Distributed Cl
 - F5 Distributed Cloud Global Network / Application Delivery Network (ADN)
 - Publicly hosted application (Public Cloud)
 
-.. figure:: assets/intro001.png
+.. figure:: assets/intro-001.png
