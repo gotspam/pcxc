@@ -30,32 +30,33 @@ lab tasks that follow.
 
 After following the invitation email's to **Update Password**, proceed to the first step below. 
 
-1. Please log into F5 Distributed Cloud Lab Tenant with your user ID (email) and password.
-
-    **https://f5-xc-lab-sec.console.ves.volterra.io/**
-
-2. When you first login, accept the Lab tenant EULA. Click the check box and the click
-
-    **Accept and Agree**
-
-3. Select all persona roles and click **Next** to see all the various configuration options.
-
-    Personas can be changed anytime if desired.
-
-4. Click **Advanced** to expose more menu options and the **Get Started** to begin. You can
-
-    change this setting after logging in as well.
-
-5. Several **Guidance ToolTips** will appear, you can safely close these out.
-
-.. figure:: assets/intro-002.png
-
-.. figure:: assets/intro-003.png
-
-.. figure:: assets/intro-004.png
-
-.. figure:: assets/intro-005.png
-
++----------------------------------------------------------------------------------------------+
+| 1. Please log into F5 Distributed Cloud Lab Tenant with your user ID (email) and password.   |
+|                                                                                              |
+|    **https://f5-xc-lab-sec.console.ves.volterra.io/**                                        |
+|                                                                                              |
+| 2. When you first login, accept the Lab tenant EULA. Click the check box and the click       |
+|                                                                                              |
+|    **Accept and Agree**.                                                                     |
+|                                                                                              |
+| 3. Select all persona roles and click **Next** to see all the various configuration options. |
+|                                                                                              |
+|    Personas can be changed anytime if desired.                                               |
+|                                                                                              |
+| 4. Click **Advanced** to expose more menu options and the **Get Started** to begin. You can  |
+|                                                                                              |
+|    change this setting after logging in as well.                                             |
+|                                                                                              |
+| 5. Several **Guidance ToolTips** will appear, you can safely close these out.                |
++----------------------------------------------------------------------------------------------+
+| |intro002|                                                                                   |
+|                                                                                              |
+| |intro003|                                                                                   |
+|                                                                                              |
+| |intro004|                                                                                   |
+|                                                                                              |
+| |intro005|                                                                                   |
++----------------------------------------------------------------------------------------------+
 
 +----------------------------------------------------------------------------------------------+
 | 6. You can adjust your work domains and skill level (not required) by clicking on the        |
@@ -116,3 +117,24 @@ After following the invitation email's to **Update Password**, proceed to the fi
 +----------------------------------------------------------------------------------------------+
 | |labbgn|                                                                                     |
 +----------------------------------------------------------------------------------------------+
+
+.. |intro001| image:: assets/intro-001.png
+   :width: 800px
+.. |intro002| image:: assets/intro-002.png
+   :width: 800px
+.. |intro003| image:: assets/intro-003.png
+   :width: 800px
+.. |intro004| image:: assets/intro-004.png
+   :width: 800px
+.. |intro005| image:: assets/intro-005.png
+   :width: 800px
+.. |intro006| image:: assets/intro-006.png
+   :width: 800px
+.. |intro007| image:: assets/intro-007.png
+   :width: 800px
+.. |intro008| image:: assets/intro-008.png
+   :width: 800px
+.. |intro009| image:: assets/intro-009.png
+   :width: 800px
+.. |labbgn| image:: assets/labbgn.png
+   :width: 800px
