@@ -30,31 +30,32 @@ lab tasks that follow.
 
 After following the invitation email's to **Update Password**, proceed to the first step below. 
 
-+----------------------------------------------------------------------------------------------+
-| 1. Please log into F5 Distributed Cloud Lab Tenant with your user ID (email) and password.   |
-|                                                                                              |
-|    **https://f5-xc-lab-sec.console.ves.volterra.io/**                                        |
-|                                                                                              |
-| 2. When you first login, accept the Lab tenant EULA. Click the check box and the click       |
-|                                                                                              |
-|    **Accept and Agree**.                                                                     |
-|                                                                                              |
-| 3. Select all persona roles and click **Next** to see all the various configuration options. |
-|                                                                                              |
-|    Personas can be changed anytime if desired.                                               |
+1. Please log into F5 Distributed Cloud Lab Tenant with your user ID (email) and password.
 
-| 4. Click **Advanced** to expose more menu options and the **Get Started** to begin. You can change this setting after logging in as well.                                             |
+    **https://f5-xc-lab-sec.console.ves.volterra.io/**
 
-| 5. Several **Guidance ToolTips** will appear, you can safely close these out.
-+----------------------------------------------------------------------------------------------+
-.. figure:: assets/intro-002.png                                                                                   |
-                                                                                         |
-.. figure:: assets/intro-003.png                                                                                |
-                                                                                            |
-.. figure:: assets/intro-004.png                                                                                  |
-                                                                                            |
-.. figure:: assets/intro-005.png                                                                                  |
-+----------------------------------------------------------------------------------------------+
+2. When you first login, accept the Lab tenant EULA. Click the check box and the click
+
+    **Accept and Agree**
+
+3. Select all persona roles and click **Next** to see all the various configuration options.
+
+    Personas can be changed anytime if desired.
+
+4. Click **Advanced** to expose more menu options and the **Get Started** to begin. You can
+
+    change this setting after logging in as well.
+
+5. Several **Guidance ToolTips** will appear, you can safely close these out.
+
+.. figure:: assets/intro-002.png
+
+.. figure:: assets/intro-003.png
+
+.. figure:: assets/intro-004.png
+
+.. figure:: assets/intro-005.png
+
 
 +----------------------------------------------------------------------------------------------+
 | 6. You can adjust your work domains and skill level (not required) by clicking on the        |
