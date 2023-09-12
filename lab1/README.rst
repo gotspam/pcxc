@@ -153,30 +153,26 @@ Task 2: Testing the Application and Viewing Telemetry Data
 The following steps will validate access to the application via web browser, review the
 Performance Monitoring dashboard, and gather request details.
 
-+---------------------------------------------------------------------------------------------------------------+
-| 1. Open another tab in your browser (Chrome shown), navigate to the newly configured Load Balancer            |
-|                                                                                                               |
-|    configuration: **http://<namespace>.lab-sec.f5demos.com**, to confirm it is functional.                    |
-|                                                                                                               |
-| 2. Navigate to the **HEADER** section under **Menu** to generate additional traffic.                          |
-+---------------------------------------------------------------------------------------------------------------+
-| |lab014|                                                                                                      |
-|                                                                                                               |
-| |lab015|                                                                                                      |
-+---------------------------------------------------------------------------------------------------------------+
-This is a test
-+---------------------------------------------------------------------------------------------------------------+
-| 3. Returning to the F5 Distributed Cloud Console, use the left-hand navigation to navigate to Multi-Cloud App |
-|                                                                                                               |
-|    Connect section and expand **Manage** and then click on **HTTP Load Balancers**                     |
-|                                                                                                               |
-| 4. Click on **Performance Monitoring** link provided for your respective load balancer.                       |
-|                                                                                                               |
-+---------------------------------------------------------------------------------------------------------------+
-| |lab016|                                                                                                      |
-|                                                                                                               |
-| |lab017|                                                                                                      |
-+---------------------------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------------------------+
+|| 1. Open another tab in your browser (Chrome shown), navigate to the newly configured Load Balancer            |
+||                                                                                                               |
+|| configuration: **http://<namespace>.lab-sec.f5demos.com**, to confirm it is functional.                       |
+||                                                                                                               |
+|| 2. Navigate to the **HEADER** section under **Menu** to generate additional traffic.                          |
++----------------------------------------------------------------------------------------------------------------+
+
++----------------------------------------------------------------------------------------------------------------+
+|| 3. Returning to the F5 Distributed Cloud Console, use the left-hand navigation to navigate to Multi-Cloud App |
+||                                                                                                               |
+|| Connect section and expand **Manage** and then click on **HTTP Load Balancers**                               |
+||                                                                                                               |
+|| 4. Click on **Performance Monitoring** link provided for your respective load balancer.                       |
+||                                                                                                               |
++----------------------------------------------------------------------------------------------------------------+
+||                                                                                                               |
+||                                                                                                               |
+||                                                                                                               |
++----------------------------------------------------------------------------------------------------------------+
 
 +---------------------------------------------------------------------------------------------------------------+
 | 5. Change the viewable time period from Last 5 minutes (default) to **1 hour** by selecting the dropdown      |
