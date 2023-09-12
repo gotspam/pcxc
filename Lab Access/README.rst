@@ -12,7 +12,7 @@ The image below represents an overview of the lab environment. F5 Distributed Cl
 - F5 Distributed Cloud Global Network / Application Delivery Network (ADN)
 - Publicly hosted application (Public Cloud)
 
-.. figure:: assets/intro-001.png
+|intro001| 
 
 Task 2: F5 Distributed Cloud Console Login
 ####################
@@ -124,17 +124,17 @@ After following the invitation email's to **Update Password**, proceed to the fi
    :width: 800px
 .. |intro003| image:: /assets/intro-003.png
    :width: 800px
-.. |intro004| image:: assets/intro-004.png
+.. |intro004| image:: /assets/intro-004.png
    :width: 800px
-.. |intro005| image:: assets/intro-005.png
+.. |intro005| image:: /assets/intro-005.png
    :width: 800px
-.. |intro006| image:: assets/intro-006.png
+.. |intro006| image:: /assets/intro-006.png
    :width: 800px
-.. |intro007| image:: assets/intro-007.png
+.. |intro007| image:: /assets/intro-007.png
    :width: 800px
-.. |intro008| image:: assets/intro-008.png
+.. |intro008| image:: /assets/intro-008.png
    :width: 800px
-.. |intro009| image:: assets/intro-009.png
+.. |intro009| image:: /assets/intro-009.png
    :width: 800px
-.. |labbgn| image:: assets/labbgn.png
+.. |labbgn| image:: /assets/labbgn.png
    :width: 800px
