@@ -1,4 +1,4 @@
-Lab 1: Deploying F5 Distributed Cloud Proxy Services to Securely Deliver a Public Endpoint
+Lab 1: Deploying F5 Distributed Cloud Proxy Services to Deliver a Public Endpoint
 ==========================================================================================
 
 This lab will focus on the deployment and security of an existing hosted application using F5
@@ -168,7 +168,7 @@ Performance Monitoring dashboard, and gather request details.
 +---------------------------------------------------------------------------------------------------------------+
 | 3. Returning to the F5 Distributed Cloud Console, use the left-hand navigation to navigate to Multi-Cloud App |
 |                                                                                                               |
-|    Connect section and expand **Virtual Hosts** and then click on **HTTP Load Balancers**                     |
+|    Connect section and expand **Manage** and then click on **HTTP Load Balancers**                     |
 |                                                                                                               |
 | 4. Click on **Performance Monitoring** link provided for your respective load balancer.                       |
 |                                                                                                               |

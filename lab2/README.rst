@@ -1,4 +1,4 @@
-Lab 1: Deploying and Managing F5 Distributed Cloud Web Application Firewall Configuration
+Lab 2: Deploying and Managing F5 Distributed Cloud Web Application Firewall Configuration
 =========================================================================================
 
 Task 1: Configure Load Balancer and Origin Pool
