@@ -1,40 +1,28 @@
 Lab 2: Deploying and Managing F5 Distributed Cloud Web Application Firewall Configuration
 =========================================================================================
 
-Task 1: Configure Load Balancer and Origin Pool
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-The following steps will allow you to deploy and advertise a globally available application.  These
-steps will define an application, register its DNS and assign a target as an origin.
-
-+----------------------------------------------------------------------------------------------+
-| 1. Following the **Introduction** section instructions, you should now be in the **Web**     |
-|                                                                                              |
-|    **App & API Protection** configuration window. If for some reason you are not in the      |
-|                                                                                              |
-|    **Web App & API Protection** window, use the **Select Service** in the left-hand          |
-|                                                                                              |
-|    navigation, and click **Web App & API Protection** as shown in the *Introduction Section* |
-|                                                                                              |
-| 2. In the left-hand navigation expand **Manage** and click **Load Balancers > HTTP Load**    |
-|                                                                                              |
-|    **Balancers**                                                                             |
-|                                                                                              |
-| 3. In the resulting screen click the **Add HTTP Load Balancer** in the graphic as shown.     |
-+----------------------------------------------------------------------------------------------+
-| |lab001|                                                                                     |
-|                                                                                              |
-| |lab002|                                                                                     |
-+----------------------------------------------------------------------------------------------+
-
-Task 2: Configure WAF Policy on the Load Balancer
+Task 1: Configure WAF Policy on the Load Balancer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The following steps will guide you through adding a Web Application Firewall (WAF) Policy.
 These steps will demonstrate various aspects of the configuration.
 
 +----------------------------------------------------------------------------------------------+
-| 1. Continuing in the **HTTP Load Balancer** section, on the left-hand menu click on the      |
+| 1. In the left-hand navigation expand **Manage** and click **Load Balancers > HTTP Load**    |
+|                                                                                              |
+|    **Balancers**                                                                             |
+|                                                                                              |
+| 2. Hover over the **...** and click **Manage Configuration**                                 |
+|                                                                                              |
+| 3. In the resulting screen click the **Edit Configuration** in the graphic as shown.         |
++----------------------------------------------------------------------------------------------+
+| |lab001|                                                                                     |
+|                                                                                              |
+| |lab002|                                                                                     |
++----------------------------------------------------------------------------------------------+
+
++----------------------------------------------------------------------------------------------+
+| 4. Continuing in the **HTTP Load Balancer** section, on the left-hand menu click on the      |
 |                                                                                              |
 |    **Web Application Firewall (WAF)** drop down and select **Enable**.                       |
 +----------------------------------------------------------------------------------------------+
