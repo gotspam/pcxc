@@ -118,9 +118,9 @@ After following the invitation email's to **Update Password**, proceed to the fi
 | |labbgn|                                                                                     |
 +----------------------------------------------------------------------------------------------+
 
-.. |intro001| image:: assets/intro-001.png
+.. |intro001| image:: ..assets/intro-001.png
    :width: 800px
-.. |intro002| image:: assets/intro-002.png
+.. |intro002| image:: ..assets/intro-002.png
    :width: 800px
 .. |intro003| image:: assets/intro-003.png
    :width: 800px
